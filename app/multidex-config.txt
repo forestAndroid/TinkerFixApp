@@ -1,0 +1,5 @@
+com/forest/tinkerfix/MainActivity.class
+com/forest/tinkerfix/BaseActivity.class
+com/forest/tinkerfix/BaseApplication.class
+
+
